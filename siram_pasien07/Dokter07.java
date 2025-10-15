@@ -20,6 +20,10 @@ public class Dokter07 extends Orang07 {
         System.out.println("===================\n");
     }
 
+    // setter mothod
+    public void setSpesialisasi07(String spesialisasi) {
+        this.spesialisasi07 = spesialisasi;
+    }
 
     // getter methods
     public int getId07() { 
